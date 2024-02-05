@@ -1,3 +1,6 @@
 /AppStorage/
 /__pycache__/
 /links.txt
+/build/
+/dist/
+/main.spec

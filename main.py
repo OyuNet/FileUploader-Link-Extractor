@@ -16,10 +16,6 @@ def main():
             data = Extract(x)
             WriteData(data)
 
-        # Little Note to myself:
-        # Maybe I could update links file in every for iteration, but I guess this thing uses much more compute power.
-        # So I am going to skip that implementation. Just RemoveLines would be enough.
-
         RemoveLines()
 
 main()
